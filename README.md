@@ -1,4 +1,4 @@
 # object-sizes-cpp
 Sizes of objects.
 
-insane
+Just grabs size of objects in bytes using sizeof(*object*)
